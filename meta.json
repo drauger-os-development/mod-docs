@@ -4,11 +4,26 @@
 	"long_desc": "This is an example mod, designed to help developers see what a Drauger OS mod would be formatted like.",
 	"mod_version": {
 		"version_code": "0.0.1",
-		"version_status": "experimental",
+		"branch": "alpha",
 		"code_name": null
 		},
-	"package_list": [
-		"package1",
-		"package2",
-		"package3"]
+	"package_lists": {
+		"dpkg": [
+			"deb-package1",
+			"deb-package2",
+			"deb-package3"],
+		"dnf": [
+			"rpm-package1",
+			"rpm-package2"],
+		"zypper": [
+			"slackware-package"],
+		"pacman": [
+			"arch-package1",
+			"arch-package2",
+			"arch-package3",
+			"arch-package4",
+			"arch-package5"],
+		"eopkg": [],
+		"emerge": ["gentoo-package"]
+		}
 }
