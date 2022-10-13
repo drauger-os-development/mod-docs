@@ -8,3 +8,6 @@ Any pre-existing folders will be used, while pre-existing files that would norma
  * the file will be copied, unmodified, into another directory elsewhere, under an identical file path
  
 This is to allow de-configuration when a mod is uninstalled.
+
+# Curated Tour of how Drauger OS Mods work
+Next: [file extension and compression](https://github.com/drauger-os-development/mod-docs/blob/master/file%20extension%20and%20compression.md)

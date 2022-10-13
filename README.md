@@ -2,7 +2,7 @@
 Documentation for mods for Drauger OS to improve it for specific devices or specific use cases
 
 # About
-Drauger OS Mods are a restricted package format which aims to allow users to easily modify their system to be better for one of two (2) situations:
+Drauger OS Mods are a restricted, cross-platform package format which aims to allow users to easily modify their system to be better for one of two (2) situations:
 
  * Specific use cases, such as:
    * Development
