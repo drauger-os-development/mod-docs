@@ -121,4 +121,4 @@ Client-side interfaces will do one of two things:
 If your mod does not have a package list for a specific package manager, it will not be installed.
 
 # Curated Tour of how Drauger OS Mods work
-The next step is learning about the `config` directory: [click here to learn about the `config` directory](https://github.com/drauger-os-development/mod-docs/blob/master/config/config.md/blob/master/about-meta.json.md)!
+The next step is learning about the `config` directory: [click here to learn about the `config` directory](https://github.com/drauger-os-development/mod-docs/blob/master/config/config.md)!
