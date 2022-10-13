@@ -54,9 +54,11 @@ This element contains various version information. Some of which is optional.
 `version_code` contains a simple version code for your mod. This may allow for pushing updates to mods later on.
 
 Version codes should ALWAYS follow the following format:
-<pre>
-major version . minor version . patch version
-</pre>
+
+
+> (major version) . (minor version) . (patch version)
+
+
 If you only wish to use 2 digits in your version code, leave the last number (patch version) set to zero (0). If you only wish to use 1 digit, use the first one (the major version), and set the remaining two to zero (0).
 
 Version codes may be any, arbitrary, positive number. Examples:
@@ -71,11 +73,11 @@ Version codes may be any, arbitrary, positive number. Examples:
  
 Due to the way version codes are parsed and understood, you may think of it like working like a real number:
 
-<pre>
-1.0.0 > 0.1.0 > 0.0.1
-2.0.0 > 1.0.0
-2.4.5 > 1.36.2 > 1.35.45 > 1.35.40
-</pre>
+
+ * 1.0.0 > 0.1.0 > 0.0.1
+ * 2.0.0 > 1.0.0
+ * 2.4.5 > 1.36.2 > 1.35.45 > 1.35.40
+
 
 #### `branch`
 This __optional__ element is useful if you want to have users to get updates on different branches. Usually, these should be:
