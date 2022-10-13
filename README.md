@@ -20,4 +20,4 @@ Drauger OS Mods are a restricted package format which aims to allow users to eas
 This repository is designed as an example mod, with documentation accompanying files and folders, to help developers and users explain what they are seeing.
 
 # Curated Tour of how Drauger OS Mods work
-To get started learning how Drauger OS Mods work, click here!
+To get started learning how Drauger OS Mods work, [click here](https://github.com/drauger-os-development/mod-docs/blob/master/about-meta.json.md)!
