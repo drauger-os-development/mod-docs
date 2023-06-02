@@ -3,7 +3,7 @@
 	"short_desc": "This is an example mod",
 	"long_desc": "This is an example mod, designed to help developers see what a Drauger OS mod would be formatted like.",
 	"mod_version": {
-		"version_code": "0.0.1",
+		"version_code": "0.0.2",
 		"branch": "alpha",
 		"code_name": null
 		},
